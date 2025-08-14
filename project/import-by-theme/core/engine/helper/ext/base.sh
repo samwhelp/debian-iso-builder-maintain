@@ -379,7 +379,7 @@ base_var_init () {
 	## ## Work Dir
 	##
 
-	DEFAULT_WORK_DIR_PATH="${HOME}/iso-builder/debian/by-theme"
+	DEFAULT_WORK_DIR_PATH="${HOME}/iso-builder/debian/import-by-theme"
 	REF_WORK_DIR_PATH="${REF_WORK_DIR_PATH:=$DEFAULT_WORK_DIR_PATH}"
 
 

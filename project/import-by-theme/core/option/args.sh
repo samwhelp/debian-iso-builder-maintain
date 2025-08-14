@@ -4,7 +4,7 @@
 ## ## REF_WORK_DIR_PATH
 ##
 
-REF_WORK_DIR_PATH="${HOME}/iso-builder/debian/by-theme"
+REF_WORK_DIR_PATH="${HOME}/iso-builder/debian/import-by-theme"
 
 
 
